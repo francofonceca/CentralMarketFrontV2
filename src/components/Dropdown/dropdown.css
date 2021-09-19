@@ -1,0 +1,46 @@
+.dropdown-toggle {
+  background-color: transparent !important;
+  color: #4037F5 !important;
+  font-weight: bold;
+  font-size: 15px;
+  border: none !important;
+}
+.dropdown-toggle:focus {
+  box-shadow: none !important;
+}
+
+.dropdown-item:focus, .dropdown-item:active {
+  background-color: #4037F5 !important;
+  color: white !important;
+}
+.dropdown-item:focus .color-title, .dropdown-item:active .color-title {
+  color: white !important;
+}
+
+.color-title {
+  color: #4037F5 !important;
+  font-weight: bold;
+}
+
+.color-basic {
+  font-family: "Poppins";
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.icon {
+  font-size: 20px !important;
+  margin: 6px !important;
+  margin-bottom: 13px !important;
+}
+
+.mb-20 {
+  margin-left: 32px !important;
+}
+
+.link-no-design {
+  text-decoration: none !important;
+}
+
+/*# sourceMappingURL=dropdown.css.map */
