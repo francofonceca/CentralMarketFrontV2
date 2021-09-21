@@ -17,13 +17,13 @@ function App() {
           <Navbar />
           <Switch>
             <Route path='/' exact component={ Home }></Route>
-            <Route path='/AdditionalData' exact component={ AdditionalData }></Route>
+            {/* <Route path='/AdditionalData' exact component={ AdditionalData }></Route>
             <Route path='/AdditionalDataBussiness' exact component={ AdditionalDataBussiness }></Route>
             <Route path='/CompanyDataReg' exact component={ CompanyDataReg }></Route>
             <Route path='/BranchOffices' exact component={ BranchOffices }></Route>
             <Route path='/DeliveryPoints' exact component={ DeliveryPoints }></Route>
             <Route path='/Users' exact component={ Users }></Route>
-            <Route path='/Security' exact component={ Security }></Route>
+            <Route path='/Security' exact component={ Security }></Route> */}
           </Switch>
       </div>
     </Router>
