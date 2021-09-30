@@ -228,4 +228,12 @@
   .video-home{
     height: 250px;
   }
+
+  .text-nav{
+    color: white !important;
+  }
+
+  footer {
+    text-align: center !important;
+  }
 }
